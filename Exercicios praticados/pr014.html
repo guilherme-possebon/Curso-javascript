@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dia da semana</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font: 16pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dia da semana com hora</h1>
+    <div id = 'res'></div>
+    <script>
+        var agora = new Date("2022-11-10T23:50:21.817Z"); // isso em () é para definir a hora, dia, mes e ano
+        var hora = agora.getHours()
+        var data = agora.getDate()
+        var datasem = agora.getDay()
+        var dias = ['Domingo','segunda','terça','Quarta','Quinta','Sexta','Sabado'] // Array
+        var res = document.querySelector('#res')
+        res.innerHTML= `<p>Hoje é dia ${data} numa ${dias[datasem]}, e agora são ${hora} horas`
+
+    </script>
+</body>
+</html>
