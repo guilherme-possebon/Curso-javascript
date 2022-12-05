@@ -1,7 +1,7 @@
 var agora = new Date()
 var diasem = agora.getDay()
 /*
-0 = Domindo
+0 = Domingo
 1 = segunda
 2 = terça
 3 = quarta
@@ -13,7 +13,7 @@ var diasem = agora.getDay()
 switch(diasem) {
 
     case 0:
-        console.log('Domindo')
+        console.log('Domingo')
         break
     case 1:
         console.log('segunda')
