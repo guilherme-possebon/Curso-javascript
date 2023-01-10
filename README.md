@@ -25,12 +25,12 @@
 <hr>
 
 <p>Meus exercícios praticados:</p> 
-<a href="https://guilherme-possebon.github.io/Curso-javascript/Exemplos/Exercicios praticados/aa.html">Meu exercício praticado numero 1</a> <br>
-<a href="https://guilherme-possebon.github.io/Curso-javascript/Exemplos/Exercicios praticados/pr009.html">Meu exercício praticado numero 2</a> <br>
-<a href="https://guilherme-possebon.github.io/Curso-javascript/Exemplos/Exercicios praticados/pr014.html">Meu exercício praticado numero 3</a> <br>
+<a href="https://guilherme-possebon.github.io/Curso-javascript/Exercicios praticados/aa.html">Meu exercício praticado numero 1</a> <br>
+<a href="https://guilherme-possebon.github.io/Curso-javascript/Exercicios praticados/pr009.html">Meu exercício praticado numero 2</a> <br>
+<a href="https://guilherme-possebon.github.io/Curso-javascript/Exercicios praticados/pr014.html">Meu exercício praticado numero 3</a> <br>
 
 <hr>
 
 <p>Meus exercícios praticados usando meu conhecimento:</p> 
 
-<a href="https://guilherme-possebon.github.io/Curso-javascript/Exemplos/Exercicios/Site da hora do dia/index.html">Meu exercício praticado usando o meu conhecimento numero 1</a> <br>
+<a href="https://guilherme-possebon.github.io/Curso-javascript/Exercicios/Site da hora do dia/index.html">Meu exercício praticado usando o meu conhecimento numero 1</a> <br>
